@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+.tvs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tvs p{
+    margin: 5px;
+}
+#soldTvList{
+    color: forestgreen;
+}
+#boughtTvList{
+    color: dodgerblue;
+}
+#howManyToSell{
+    color: red;
+}
+.brands{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+.allTvs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.highlightedTV{
+    margin: 50px 0;
+}
+.highlightedTV p{
+    margin: 5px 20px;
+}
+
+#outro{
+    margin-top: 100px;
+}
